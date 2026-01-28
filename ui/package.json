@@ -34,7 +34,7 @@
     "graceful-fs": "^4.0.0",
     "gulp-env": "^0.4.0",
     "history": "^1.17.0",
-    "lodash": "^4.0.0",
+    "lodash": "^4.17.23",
     "lodash.merge": "^4.3.0",
     "moment": "^2.22.2",
     "numeral": "^2.0.6",
@@ -62,7 +62,7 @@
     "reselect": "^3.0.1",
     "superagent": "^3.8.3",
     "underscore": "^1.8.3",
-    "webpack": "^1.12.10"
+    "webpack": "^2.2.0"
   },
   "devDependencies": {
     "babel": "^6.5.2",
